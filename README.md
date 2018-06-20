@@ -9,4 +9,4 @@ In the "Agario" game mode, your objective is to avoid enemies bigger than yourse
 The two other modes "Survival" and "Escape" are similiar, in these mods you respectively need to either avoid all enemies or eat all enemies.
 
 ## Creation
-This game was created in form of a "gymnasiearbete" ("coursework") at [NTI Gymnasiet Kronhusgatan, Gothenburg](http://www.ntigymnasiet.se/goteborg/teknikprogrammet/) 2016. The game is written and shown in English, while the documentation is in Swedish.
+This game was created in form of a "gymnasiearbete" ("coursework") at [NTI Gymnasiet Kronhusgatan, Gothenburg](http://www.ntigymnasiet.se/goteborg/teknikprogrammet/) in 2016. The game is written and shown in English, while the documentation is in Swedish.
