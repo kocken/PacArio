@@ -1,6 +1,8 @@
 # PacArio
 An "agar.io" inspired game where you, the player shown as a PacMan character, has the goal to gather as much points as possible until you lose. You do this by using the arrow keys or 'W', 'A', 'S' & 'D'. Depending on game mode, your objective is different.
 
+![Alt text](PacArio.gif?raw=true "Preview")
+
 ## Game modes
 In the "Agario" game mode, your objective is to avoid enemies bigger than yourself, and "eat" smaller enemies to grow in size.
 
